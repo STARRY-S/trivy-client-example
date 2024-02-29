@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+trivy-client-example
+
+/.vscode/
